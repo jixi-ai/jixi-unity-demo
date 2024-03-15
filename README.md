@@ -3,6 +3,7 @@
 Jixi is an all-in-one AI development platform. This demo takes Unity's adventure sample and adds AI NPC interaction built on Jixi.
 
 Original game: https://assetstore.unity.com/packages/templates/tutorials/adventure-sample-game-76216
+
 Jixi SDK: https://github.com/jixi-ai/jixi-unity-sdk
 
 <img width="954" alt="Screenshot 2024-03-15 at 10 45 50 AM" src="https://github.com/jixi-ai/jixi-unity-demo/assets/2688048/60374934-3a08-435e-8974-017e8f958015">
