@@ -362,7 +362,7 @@ MonoBehaviour:
   faderCanvasGroup: {fileID: 1708470355}
   fadeDuration: 1
   startingSceneName: SecurityRoom
-  initialStartingPositionName: DoorToSecurityRoom
+  initialStartingPositionName: DoorToMarket
   playerSaveData: {fileID: 11400000, guid: 55d72825bf06cf44e9cbc1b37812cc6f, type: 2}
 --- !u!4 &353158847
 Transform:
@@ -1376,6 +1376,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Jixi AI
+      objectReference: {fileID: 0}
+    - target: {fileID: 7842797170489355119, guid: 51aa440109ec74b7aa82c3fed2952369,
+        type: 3}
+      propertyPath: apiKey
+      value: 58448B4B41AA4047A1768371
+      objectReference: {fileID: 0}
+    - target: {fileID: 7842797170489355119, guid: 51aa440109ec74b7aa82c3fed2952369,
+        type: 3}
+      propertyPath: actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7842797170489355119, guid: 51aa440109ec74b7aa82c3fed2952369,
+        type: 3}
+      propertyPath: actions.Array.data[0].url
+      value: https://api.jixi.ai/1a689ac7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7842797170489355119, guid: 51aa440109ec74b7aa82c3fed2952369,
+        type: 3}
+      propertyPath: actions.Array.data[0].name
+      value: Fishman
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51aa440109ec74b7aa82c3fed2952369, type: 3}
